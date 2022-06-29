@@ -85,7 +85,6 @@ include('db.php');
 						<ul class="nav navbar-nav menu__list">
 							<li class="menu__item menu__item--current"><a href="" class="menu__link">Trang chủ</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">Về chúng tôi</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Thành viên</a></li>
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Bộ sưu tập</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Phòng</a></li>
 							<li class="menu__item"><a href="#contact" class="menu__link scroll">Liên hệ</a></li>
